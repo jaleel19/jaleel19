@@ -1,4 +1,4 @@
-<h1>Hi, I'm jaleel, an experienced <a href="https://linkedin.com/in/jaleel-watson-7166a4151/>IT Professional</a>☺</h1>
+<h1>Hi, I'm jaleel, an experienced <a href="https://linkedin.com/in/jaleel-watson-7166a4151/> IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
